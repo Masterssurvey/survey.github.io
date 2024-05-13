@@ -8724,7 +8724,7 @@ html[data-direction=down] .header:not(.header_show-menu) .header__inner {
 }
 
 .single-service-page__head {
-    height: calc(100vh - 200px);
+    height: calc(100vh - 100px);
     max-height: calc(800px - 24px);
     margin-bottom: 128px;
     overflow: hidden
